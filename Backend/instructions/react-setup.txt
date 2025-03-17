@@ -1,0 +1,4 @@
+1. Install Node.js from https://nodejs.org.
+2. Run `npx create-react-app my-app`.
+3. Navigate to the project folder: `cd my-app`.
+4. Start the development server: `npm start`.

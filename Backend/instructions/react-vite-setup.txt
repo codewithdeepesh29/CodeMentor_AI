@@ -1,0 +1,6 @@
+1. Install Node.js from https://nodejs.org.
+2. Run `npm create vite@latest my-app`.
+3. Choose React as the framework.
+4. Navigate to the project folder: `cd my-app`.
+5. Install dependencies: `npm install`.
+6. Start the development server: `npm run dev`.
